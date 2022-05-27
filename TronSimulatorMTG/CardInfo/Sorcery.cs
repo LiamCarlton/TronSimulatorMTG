@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TronSimulatorMTG.CardInfo
+{
+	public abstract class Sorcery : Card
+	{
+		override public string CardType { get; set; } = "Sorcery";
+	}
+}

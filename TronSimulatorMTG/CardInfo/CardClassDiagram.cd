@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TronSimulatorMTG.CardInfo.AncientStirrings" Collapsed="true">
+    <Position X="23.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAgAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\AncientStirrings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Artifact" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAAAAAAAAAgAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CardInfo\Artifact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Card" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAAABAAAAQAAAgAAAACAAACAAAAAAA=</HashCode>
+      <FileName>CardInfo\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.ChromaticWhatever" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAABAAAAAAAQAAAAAAAACAAAAgAAAAAA=</HashCode>
+      <FileName>CardInfo\ChromaticWhatever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.ExpeditionMap" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAgABAAAAAAAQAAAAAAAACAAAAgAAAAAA=</HashCode>
+      <FileName>CardInfo\ExpeditionMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Permanent" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\Permanent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.WinCondition" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAQAAAgAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\WinCondition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Sorcery" Collapsed="true">
+    <Position X="25.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\Sorcery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.OnceUponATime" Collapsed="true">
+    <Position X="25.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAgAAAAAAAAAQAAAAAAAACAAAAAAgAAAA=</HashCode>
+      <FileName>CardInfo\OnceUponATime.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.SylvanScrying" Collapsed="true">
+    <Position X="28" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAgAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\SylvanScrying.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Land" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAhAAgAAAAAAAAAAQAAAgAAAgCgAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\Land.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Forest" Collapsed="true">
+    <Position X="21.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\Forest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.TempleOfFalseGod" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CardInfo\TempleOfFalseGod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Tronland" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CardInfo\Tronland.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Tower" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CardInfo\Tower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Plant" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CardInfo\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TronSimulatorMTG.CardInfo.Mine" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CardInfo\Mine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TronSimulatorMTG.CardInfo.IRandomizable" Collapsed="true">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardInfo\IRandomizable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
