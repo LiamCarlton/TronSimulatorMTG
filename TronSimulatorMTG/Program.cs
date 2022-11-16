@@ -41,15 +41,15 @@ namespace TronSimulatorMTG
 
 			//Performance Comparison:
 
-			Helpers.RunSimulationsBasic(Deck1, 1000, @"D:\Documents\ComparisonData.csv");
+			//Helpers.RunSimulationsBasic(Deck1, 1000, @"D:\Documents\ComparisonData.csv");
 
-			Helpers.RunSimulations(Deck1, 1000, new Game().PlayTurnTrulyRandomly, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
+			//Helpers.RunSimulations(Deck1, 1000, new Game().PlayTurnTrulyRandomly, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
 
-			Helpers.RunSimulationsParallel(1000, new Game().PlayTurnUCT, 30, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
+			Helpers.RunSimulationsParallel(100, new Game().PlayTurnUCT, 30, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
 
-			Helpers.RunSimulationsParallel(1000, new Game().PlayTurnPMCS, 100, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
+			//Helpers.RunSimulationsParallel(1000, new Game().PlayTurnPMCS, 100, false, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
 
-			Helpers.RunSimulationsParallel(1000, new Game().PlayTurnPMCS, 100, true, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
+			//Helpers.RunSimulationsParallel(1000, new Game().PlayTurnPMCS, 100, true, 100, 5, 0.3, @"D:\Documents\ComparisonData.csv");
 
 		}
 	}
